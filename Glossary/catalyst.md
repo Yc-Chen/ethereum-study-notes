@@ -1,0 +1,1 @@
+The proposal of making Geth an eth1 engine is called Catalyst, refer to https://ethresear.ch/t/architecture-of-a-geth-based-eth1-engine/7574. That confirms why the code about JSON-RPC handling is found in `catalyst` directory.

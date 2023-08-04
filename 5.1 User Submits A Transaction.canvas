@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[4.3 Code - Geth - Transaction Pool#Receiving A Transaction from A Wallet through JSON-RPC]]","id":"afb39992d8c56257","x":480,"y":-30,"width":380,"height":110,"color":"3"},
+		{"type":"text","text":"[[4.3 Code - Geth - Transaction Pool#Tell The Transaction to (More) Peers]]","id":"5761361a0904bbfc","x":525,"y":220,"width":291,"height":112,"color":"3"},
+		{"type":"text","text":"[[4.4 Code - Geth - Block Building#Fork Choice Handling]]","id":"5dc8fd3990ce0cdb","x":545,"y":420,"width":250,"height":113,"color":"3"},
+		{"type":"text","text":"[[4.4 Code - Geth - Block Building#Block Execution]]","id":"d61269361a87e56d","x":546,"y":625,"width":250,"height":115,"color":"3"},
+		{"type":"text","text":"[[3.5 Code - Lodestar - Block Building#Receive Gossip Topic `beacon_block` or `beacon_block_and_blobs_sidecar`]]","id":"15254a9e7688de6c","x":-55,"y":220,"width":420,"height":112,"color":"6"},
+		{"type":"text","text":"For non-proposer nodes:","id":"25ed6c7761e9fc5d","x":33,"y":100,"width":245,"height":80,"color":"6"},
+		{"type":"text","text":"For proposer node:","id":"202d7d506b702be0","x":-460,"y":100,"width":245,"height":80,"color":"6"},
+		{"type":"text","text":"[[4.2 Code - Geth - JSON-RPC#Make A Transaction from Wallet]]","id":"12d7ea0ccdd43954","x":-860,"y":-30,"width":250,"height":110},
+		{"type":"text","text":"This color means consensus client.","id":"841c783769783abc","x":-860,"y":-280,"width":250,"height":80,"color":"6"},
+		{"type":"text","text":"This color means execution client.","id":"1c0b34fb52548f89","x":-525,"y":-280,"width":250,"height":80,"color":"3"},
+		{"type":"text","text":"[[3.5 Code - Lodestar - Block Building#Send Gossip Topic `beacon_block` or `beacon_block_and_blobs_sidecar`]]","id":"1da22b5246f1d429","x":-557,"y":222,"width":440,"height":110,"color":"6"},
+		{"type":"text","text":"[[3.4 Code - Lodestar - Attestation]]","id":"fc8afcd60b8118c8","x":30,"y":429,"width":250,"height":95,"color":"6"},
+		{"type":"text","text":"[[4.4 Code - Geth - Block Building#New Payload Handling]]","id":"2f3bfd34dd234967","x":546,"y":843,"width":250,"height":117,"color":"3"}
+	],
+	"edges":[
+		{"id":"81b5a010b1ef2b21","fromNode":"12d7ea0ccdd43954","fromSide":"right","toNode":"afb39992d8c56257","toSide":"left"},
+		{"id":"31f13ed69541431d","fromNode":"afb39992d8c56257","fromSide":"bottom","toNode":"5761361a0904bbfc","toSide":"top"},
+		{"id":"d538c08a66f2e60e","fromNode":"5dc8fd3990ce0cdb","fromSide":"bottom","toNode":"d61269361a87e56d","toSide":"top"},
+		{"id":"d2a59f36799063ff","fromNode":"25ed6c7761e9fc5d","fromSide":"bottom","toNode":"15254a9e7688de6c","toSide":"top"},
+		{"id":"5c50be53c55c88ae","fromNode":"202d7d506b702be0","fromSide":"bottom","toNode":"1da22b5246f1d429","toSide":"top"},
+		{"id":"a1153e676e07b729","fromNode":"5dc8fd3990ce0cdb","fromSide":"right","toNode":"5761361a0904bbfc","toSide":"right","label":"Reads transaction pool"},
+		{"id":"76a6c7d1e8975b43","fromNode":"1da22b5246f1d429","fromSide":"right","toNode":"15254a9e7688de6c","toSide":"left"},
+		{"id":"74b73c16a719f1f5","fromNode":"15254a9e7688de6c","fromSide":"bottom","toNode":"fc8afcd60b8118c8","toSide":"top"},
+		{"id":"6452d6ca347606a9","fromNode":"1da22b5246f1d429","fromSide":"bottom","toNode":"fc8afcd60b8118c8","toSide":"left"},
+		{"id":"56cc8bc5da7faedd","fromNode":"fc8afcd60b8118c8","fromSide":"right","toNode":"5dc8fd3990ce0cdb","toSide":"left"},
+		{"id":"6e31b5296cdcc04e","fromNode":"d61269361a87e56d","fromSide":"bottom","toNode":"2f3bfd34dd234967","toSide":"top"},
+		{"id":"4da26b81ae67ab6d","fromNode":"15254a9e7688de6c","fromSide":"right","toNode":"2f3bfd34dd234967","toSide":"left","fromEnd":"arrow","label":"sync"}
+	]
+}

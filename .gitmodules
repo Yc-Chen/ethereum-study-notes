@@ -1,0 +1,6 @@
+[submodule "repositories/lodestar"]
+	path = repositories/lodestar
+	url = git@github.com:ChainSafe/lodestar.git
+[submodule "go-ethereum"]
+	path = repositories/go-ethereum
+	url = git@github.com:ethereum/go-ethereum.git
