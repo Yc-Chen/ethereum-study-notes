@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "80905825924c9780",
+        "id": "bfcc3ad9681aae1f",
         "type": "tabs",
         "children": [
           {
-            "id": "40073d9df37d6e8e",
+            "id": "c30ea799a2a05578",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,11 +147,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "40073d9df37d6e8e",
+  "active": "c30ea799a2a05578",
   "lastOpenFiles": [
-    "QUESTIONS.md",
-    "5. Putting It Together.md",
+    "README.md",
     "images/Progress of A Slot.png",
+    "images/Progress of A Slot.png",
+    "_Excalidraw/Progress of A Slot.md",
+    "3.2 Code - Lodestar - Gossip Handling.md",
+    "5. Putting It Together.md",
+    "QUESTIONS.md",
     "3.6 Code - Lodestar - Staking.md",
     "Glossary/KZG.md",
     "4.5 Code - Geth - Transactions and EVM.md",
@@ -177,35 +173,15 @@
     "3 Lodestar.md",
     "4.4 ~ Code - Geth - Block Building.md",
     "3.3 ~ Code - Lodestar - CLI Validator.md",
-    "3.2 Code - Lodestar - Gossip Handling.md",
     "treedb.png",
     "_Excalidraw/Ethereum Clients.excalidraw.md",
     "2.1 Code - Lodestar - CLI Beacon Node.md",
     "2 Lodestar - SSZ.md",
     "1 The Gossip Network.md",
     "0 How Ethereum Works and Its Namings.md",
-    "_Excalidraw/Progress of A Slot.md",
     "5.x Staking.canvas",
     "3.5 Code - Lodestar - Block Building.md",
-    "Glossary/gossipsub.md",
-    "repositories/lodestar/docs/design/depgraph.md",
-    "3.4 Code - Lodestar - Attestation.md",
-    "Glossary/gossip network.md",
-    "3.2 Code - Lodestar - CLI Validator.md",
-    "_Excalidraw/Ethereum Clients.excalidraw.md",
     "5.2 The Progress of A Slot.canvas",
-    "4.2 Code - Geth - JSON-RPC.md",
-    "Untitled.md",
-    "4.3 Code - Geth - Transaction Pool.md",
-    "4.1 Code - Geth - CLI.md",
-    "4 Geth.md",
-    "3.1 Code - Lodestar - CLI Beacon Node.md",
-    "Glossary/KZG.md",
-    "README.md",
-    "3.3 Code - Lodestar - Gossip Handling.md",
-    "QUESTIONS.md",
-    "3 Lodestar.md",
-    "Glossary/SSZ.md",
     "LICENSE",
     "geth-canvas/9. MetaMask Meets Ethereum.canvas",
     "images",
@@ -222,7 +198,6 @@
     "repositories/go-ethereum/tests/testdata/src/GeneralStateTestsFiller/EIPTests/stEOF/stEIP3670/CreateTransactionEOF1InvalidOpcodesFiller.yml",
     "repositories/go-ethereum/tests/testdata/src/GeneralStateTestsFiller/EIPTests/stEOF/stEIP3670/CREATE_EOF1InvalidOpcodesFiller.yml",
     "repositories/go-ethereum/tests/testdata/src/GeneralStateTestsFiller/EIPTests/stEOF/stEIP3670/CREATE_EOF1Invalid_FromEOFFiller.yml",
-    "repositories/go-ethereum/tests/testdata/src/GeneralStateTestsFiller/EIPTests/stEOF/stEIP3670/CREATE_EOF1InvalidFiller.yml",
     "repositories/go-ethereum/tests/testdata/docs/images/uncleBlock.png",
     "repositories/go-ethereum/tests/testdata/docs/images/stateRootErr.png",
     "repositories/lodestar/docs/images/lodestar-releases.png",

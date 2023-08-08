@@ -25,7 +25,7 @@ They are included as submodules under 'repositories' for easier referencing.
 In the code it is between the '[[shapella]]' upgrade and '[[Deneb]]' upgrade. In practice, the mainnet upgrade is taken extremely carefully with extra time of testing, so it is before the mainnet 'shapella' upgrade and maybe misses some final fixes.
 
 ## Obsidian and VSCode
-This note is best viewed with [obsidian](https://obsidian.md/), where you can have the linked articles on hover and you can view the canvas-typed notes like [[5.1 User Submits A Transaction.canvas|5.1 User Submits A Transaction]] and [[5.2 The Progress of A Slot.canvas|5.2 The Progress of A Slot]]. But for code files you need a code editor like VSCode because obsidian does not show them.
+This note is best viewed with [obsidian](https://obsidian.md/), where you can have the linked articles on hover and you can view the canvas-typed notes like [[5.1 User Submits A Transaction.canvas|5.1 User Submits A Transaction]]. But for code files you need a code editor like VSCode because obsidian does not show them.
 
 ## ChatGPT
 ChatGPT helped me a lot to understand how Ethereum works. Knowing that its answer may not be accurate, I always explicitly quote ChatGPT. (Am I better than ChatGPT? Dunno.)
