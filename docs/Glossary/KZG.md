@@ -1,0 +1,1 @@
+A cryptography algorithm, like elliptic curve. KZG is a proof for 'blobs_sidecar' introduced in [[deneb]]

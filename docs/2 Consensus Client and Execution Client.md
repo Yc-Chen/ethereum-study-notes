@@ -5,8 +5,9 @@
 https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#validators
 
 It mentions that you need:
-- consensus client and
-- execution client
+
+* consensus client and
+* execution client
 
 to run an Ethereum node.
 

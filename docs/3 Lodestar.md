@@ -1,12 +1,14 @@
 ---
 ---
 Below are some technical pieces that are linked to consensus clients:
-- The [[gossipsub]]
-- [[SSZ]]
+
+* The [[gossipsub]]
+* [[SSZ]]
 
 To run lodestar, you need to call at least 2 CLIs:
-- `lodestar beacon`
-- `lodestar validator import`
+
+* `lodestar beacon`
+* `lodestar validator import`
 
 And they will be explained later.
 

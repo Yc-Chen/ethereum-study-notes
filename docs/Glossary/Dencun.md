@@ -1,0 +1,1 @@
+Similar to the naming of [[Shapella]], Dencun is combination of '[[Deneb]]' and Cancun.

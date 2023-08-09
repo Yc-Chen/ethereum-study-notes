@@ -7,9 +7,9 @@ Ethereum is 'run' by thousands of 'nodes', aka computers or VMs that retrieve st
 > [!NOTE]- Ethereum testing is a joint effort
 > Marius (Ethereum code dev) explains Ethereum testing in this video: https://www.youtube.com/watch?v=WpbaWAwtG_M
 > Some highlights:
-> - Lots and lots of blockchain test for any clients to use
-> - If different valid clients validate chains differently, it will end up hardforking
-> - Ethereum core devs monitor the versions of clients running there
+> * Lots and lots of blockchain test for any clients to use
+> * If different valid clients validate chains differently, it will end up hardforking
+> * Ethereum core devs monitor the versions of clients running there
 > 
 > See also: https://cointelegraph.com/news/vitalik-reminds-node-operators-to-update-client-before-the-bellatrix-upgrade
 
@@ -28,8 +28,9 @@ Ethereum is 'run' by thousands of 'nodes', aka computers or VMs that retrieve st
 A 'Node' is the abstraction of running Ethereum clients(software). You need to run 2 types of clients post-merge: the consensus client and the execution client. For each client, you have multiple choices. The **consensus clients** are agreeing with each other on who determines the block, like 'guiding' the work of **execution client**, and the data it produces are called 'beacon chain', next to the execution chain. A running consensus client is also referred to a beacon node.
 
 Since PoS, the part of the traditional Ethereum client(execution client) to agree which is the canonical(correct) chain is overtaken by consensus client, but the rest is still needs to be handled:
-- transactions
-- EVM
+
+* transactions
+* EVM
 
 Therefore the name 'execution': for executing transactions and smart contracts.
 

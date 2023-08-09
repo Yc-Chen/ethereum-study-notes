@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bfcc3ad9681aae1f",
+        "id": "d140d441da023ead",
         "type": "tabs",
         "children": [
           {
-            "id": "c30ea799a2a05578",
+            "id": "89c2f93b258f3595",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "notifyNew",
+                "query": "deneb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -134,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,57 +152,57 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c30ea799a2a05578",
+  "active": "72101149013303c4",
   "lastOpenFiles": [
+    "docs/Glossary/Shapella.md",
     "README.md",
-    "images/Progress of A Slot.png",
-    "images/Progress of A Slot.png",
+    "docs/Glossary/Dencun.md",
+    "docs/Glossary/deneb.md",
+    "requirements.txt",
+    "docs/5.1 User Submits A Transaction.canvas",
+    "docs/Appendix/5.1 User Submits A Transaction.md",
+    "docs/5.1 User Submits A Transaction.md",
+    "docs/5.1 User Submits A Transaction.html",
+    "5.1 User Submits A Transaction.html",
+    "canvas-export.html",
+    "docs/index.md",
+    "docs/1 Ethereum and Its Namings.md",
+    "docs/5. Putting It Together.md",
+    "docs/img/Progress of A Slot.png",
+    "docs/img",
+    "docs/3.1 Code - Lodestar - CLI Beacon Node.md",
+    "docs/3 Lodestar.md",
+    "docs/3.2 Code - Lodestar - CLI Validator.md",
+    "docs",
+    "mkdocs.yml",
     "_Excalidraw/Progress of A Slot.md",
     "3.2 Code - Lodestar - Gossip Handling.md",
-    "5. Putting It Together.md",
     "QUESTIONS.md",
-    "3.6 Code - Lodestar - Staking.md",
-    "Glossary/KZG.md",
-    "4.5 Code - Geth - Transactions and EVM.md",
-    "4.4 Code - Geth - Block Building.md",
-    "3.3 Code - Lodestar - Gossip Handling.md",
-    "3.2 Code - Lodestar - CLI Validator.md",
-    "Glossary/EIP-4844.md",
+    "docs/3.6 Code - Lodestar - Staking.md",
+    "docs/Glossary/KZG.md",
+    "docs/4.5 Code - Geth - Transactions and EVM.md",
+    "docs/4.4 Code - Geth - Block Building.md",
+    "docs/3.3 Code - Lodestar - Gossip Handling.md",
+    "docs/Glossary/EIP-4844.md",
     "LICENSE",
     "5.2 The Progress of A Slot.canvas",
-    "5.1 User Submits A Transaction.canvas",
-    "Glossary/deneb.md",
     "4.x Code - Geth - ledger trezor etc.md",
     "4.5 Code - Geth - Transfer and EVM.md",
     "3.x Code - Lodestar - Rewards and Penalties.md",
-    "3 Lodestar.md",
     "4.4 ~ Code - Geth - Block Building.md",
     "3.3 ~ Code - Lodestar - CLI Validator.md",
     "treedb.png",
-    "_Excalidraw/Ethereum Clients.excalidraw.md",
-    "2.1 Code - Lodestar - CLI Beacon Node.md",
-    "2 Lodestar - SSZ.md",
-    "1 The Gossip Network.md",
-    "0 How Ethereum Works and Its Namings.md",
     "5.x Staking.canvas",
-    "3.5 Code - Lodestar - Block Building.md",
     "5.2 The Progress of A Slot.canvas",
     "LICENSE",
     "geth-canvas/9. MetaMask Meets Ethereum.canvas",
     "images",
-    "images/Uniswap-Etherscan.png",
+    "docs/img/Uniswap-Etherscan.png",
     "geth-canvas/3. Receive A JSON-RPC Call.canvas",
-    "Glossary",
     "geth-canvas/From engine API.canvas",
     "geth-canvas/2. Find Peers.canvas",
     "geth-canvas/1. Start A Client with(out) A New Chain.canvas",
     "geth-canvas/5. From PoW to PoS.canvas",
-    "geth-canvas",
-    "repositories/go-ethereum/tests/testdata/src/GeneralStateTestsFiller/EIPTests/stEOF/stEIP3670/CreateTransactionInvalidEOF1Filler.yml",
-    "repositories/go-ethereum/tests/testdata/src/GeneralStateTestsFiller/EIPTests/stEOF/stEIP3670/CreateTransactionEOF1ValidOpcodesFiller.yml",
-    "repositories/go-ethereum/tests/testdata/src/GeneralStateTestsFiller/EIPTests/stEOF/stEIP3670/CreateTransactionEOF1InvalidOpcodesFiller.yml",
-    "repositories/go-ethereum/tests/testdata/src/GeneralStateTestsFiller/EIPTests/stEOF/stEIP3670/CREATE_EOF1InvalidOpcodesFiller.yml",
-    "repositories/go-ethereum/tests/testdata/src/GeneralStateTestsFiller/EIPTests/stEOF/stEIP3670/CREATE_EOF1Invalid_FromEOFFiller.yml",
     "repositories/go-ethereum/tests/testdata/docs/images/uncleBlock.png",
     "repositories/go-ethereum/tests/testdata/docs/images/stateRootErr.png",
     "repositories/lodestar/docs/images/lodestar-releases.png",
