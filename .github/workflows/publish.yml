@@ -36,6 +36,8 @@ jobs:
           python-version: '3.9'
       - run: |
           pip install -r requirements.txt
+          find . -type f -name "*.md" -exec sed -i 's|repositories/lodestar/|https://github.com/ChainSafe/lodestar/blob/v1.5.1/|g' {} +
+          find . -type f -name "*.md" -exec sed -i 's|repositories/go-ethereum/|https://github.com/ethereum/go-ethereum/blob/v1.11.2/|g' {} +
           mkdocs build
       - name: Setup Pages
         uses: actions/configure-pages@v3

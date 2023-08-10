@@ -1,5 +1,7 @@
 # Ethereum Study Notes
 
+For online version: <https://yc-chen.github.io/ethereum-study-notes/>. But it is best viewed in Obsidian + VSCode.
+
 ## Why
 A lot of the articles trying to explain how Ethereum works often make me more confused when I want to understand the whole picture or to dive deeper. The reasons for that are 
 * the use of analogies. Analogies are great in explaining one aspect but can put you in the wrong foot for another, e.g. EVM is like a computer on chain but is it really a computer?

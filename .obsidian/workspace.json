@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d140d441da023ead",
+        "id": "59ebbaa743606158",
         "type": "tabs",
         "children": [
           {
-            "id": "89c2f93b258f3595",
+            "id": "ec0cb1c754cfaf17",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -138,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,8 +147,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "72101149013303c4",
+  "active": "ec0cb1c754cfaf17",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/1 Ethereum and Its Namings.md",
+    "QUESTIONS.md",
+    "docs/4.5 Code - Geth - Transactions and EVM.md",
     "site/search/search_index.json",
     "site/search",
     "site/Glossary/shanghai/index.html",
@@ -164,7 +163,6 @@
     "site/Glossary/catalyst/index.html",
     "site/Glossary/capella/index.html",
     "site/Glossary/Shapella/index.html",
-    "site/Glossary/SSZ/index.html",
     "site/assets/images/favicon.png",
     "site/img/Uniswap-Etherscan.png",
     "site/img/Progress of A Slot.png",
@@ -176,8 +174,6 @@
     "docs/5.1 User Submits A Transaction.canvas",
     "docs/Appendix/5.1 User Submits A Transaction.md",
     "docs/5.1 User Submits A Transaction.md",
-    "docs/index.md",
-    "docs/1 Ethereum and Its Namings.md",
     "docs/5. Putting It Together.md",
     "docs/img/Progress of A Slot.png",
     "docs/3.1 Code - Lodestar - CLI Beacon Node.md",
@@ -185,10 +181,8 @@
     "docs/3.2 Code - Lodestar - CLI Validator.md",
     "_Excalidraw/Progress of A Slot.md",
     "3.2 Code - Lodestar - Gossip Handling.md",
-    "QUESTIONS.md",
     "docs/3.6 Code - Lodestar - Staking.md",
     "docs/Glossary/KZG.md",
-    "docs/4.5 Code - Geth - Transactions and EVM.md",
     "docs/4.4 Code - Geth - Block Building.md",
     "docs/3.3 Code - Lodestar - Gossip Handling.md",
     "docs/Glossary/EIP-4844.md",
